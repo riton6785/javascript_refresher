@@ -5,7 +5,7 @@ const printbio = (name,age)=>{
 
 }
 // using the settimeout by calling the function
-setTimeout(printbio,2000,"aditya",22) // here the first parameter is function name second one is time means after hoe much time the function will be called and third and fourth parameters are the functions parameters
+setTimeout(printbio,2000,"aditya",22) // here the first parameter is function name second one is time means after how much time the function will be called and third and fourth parameters are the functions parameters
 
 
 // using the settimeout in arrow function in same place
